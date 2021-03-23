@@ -33,4 +33,4 @@ Through utilising the concepts learnt through modules 1 & 2 of this unit, I was 
 Reference: 
 
 Wallpaper Flare, ‘HD wallpaper: gem, citrine, stone …’ (2021), Retrieved from: https://www.wallpaperflare.com/gem-citrine-stone-jewel-crystal-macro-mineral-yellow-wallpaper-ecrft 
-![image](https://user-images.githubusercontent.com/53728612/112139415-d7142680-8c26-11eb-9e10-8ae020735ce2.png)
+![image]
