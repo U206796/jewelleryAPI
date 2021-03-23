@@ -1,10 +1,10 @@
 # API Sketch. 
 
-Introduction
+## Introduction
 
 The aim of this assessment was to showcase an understanding of the concepts introduced in modules 1 and 2 of this unit. Students were to demonstrate this understanding by creating web application that displays data gained from a web-based Galleries, Libraries, Archives and Museum (GLAM) API. 
 
-Ideation
+## Ideation
 
 Before creating the web application, I firstly researched GLAM API’s. This was to see the content of the data that each one presented, as this would help my ideation of my web application and its purpose. 
 
@@ -12,7 +12,7 @@ Through a process of elimination, I decided to use the National Museum of Austra
 
 While looking through the NMA’s collection API explorer, I found that jewellery and subcategories of jewellery returned a large amount of search results. This informed my decision to create my web application around jewellery collections. The target audience for this web application are individuals for are interested in jewellery design. 
 
-Process 
+## Process 
 
 Firstly, I followed the order to create a web page by using linked HTML, CSS and JavaScript files. 
 
@@ -26,11 +26,11 @@ The data returned was based on the tags that I requested through my HTML and jQu
 
 The last stage was to stylise the web application to show the data in a dynamic way. I chose a background of gemstones as they are often seen in jewellery pieces. I then used columns to display the data so that it was easy to read. The inspiration for colour theme came from the hero image of the gemstones. 
   
-Conclusion
+## Conclusion
 
 Through utilising the concepts learnt through modules 1 & 2 of this unit, I was able to create a responsive web application that displayed dynamic data informed from a GLAM API. My web application, is relatively simple, however demonstrates an understanding. In the future, I would like to continue to work on this web application, so that it could return images related to the objects.
 
-Reference: 
+### Reference: 
 
 Wallpaper Flare, ‘HD wallpaper: gem, citrine, stone …’ (2021), Retrieved from: https://www.wallpaperflare.com/gem-citrine-stone-jewel-crystal-macro-mineral-yellow-wallpaper-ecrft 
 ![image]
